@@ -1,0 +1,11 @@
+{
+  "name": "InstaWin — mes concours",
+  "short_name": "InstaWin",
+  "description": "Repère et organise tes concours Instagram préférés.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6fb",
+  "theme_color": "#6d45d9",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
